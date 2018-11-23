@@ -1,2 +1,2 @@
 # Consultas-de-pacientes
-Trabajo universitario para aprender a usar vb.NET
+Trabajo universitario para aprender intefaces de usuario de vb.NET
